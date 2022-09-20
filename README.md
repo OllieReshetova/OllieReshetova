@@ -32,7 +32,7 @@
 <img align="left" src="https://i.pinimg.com/originals/f3/96/06/f39606dba59e89f944a90489912a24bb.png" alt="JSON" height="25" style="padding-right:10px"/>
 <img align="left" src="https://cdn4.iconfinder.com/data/icons/file-formats-6-1/199/Untitled-54-512.png" alt="XML" height="25" style="padding-right:10px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="25" style="padding-right:10px"/>
-
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git" height="25" style="padding-right:10px"/>
 <br />
 <br />
 
