@@ -31,7 +31,7 @@
 
 #### В процессе изучения:
 
-<div style="pointer-events:none" pointer-events:none>
+<div style="pointer-events:none; coursor: default" >
 <img align="left" title='PostgreSQL' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="25" style="padding-right:10px"/>
 <img align="left" title='JSON' src="https://i.pinimg.com/originals/f3/96/06/f39606dba59e89f944a90489912a24bb.png" alt="JSON" height="25" style="padding-right:10px"/>
 <img align="left" title='XML' src="https://cdn4.iconfinder.com/data/icons/file-formats-6-1/199/Untitled-54-512.png" alt="XML" height="25" style="padding-right:10px"/>
