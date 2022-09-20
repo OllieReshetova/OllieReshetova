@@ -16,7 +16,7 @@
 
 <picture><img align="left" title='Charles' src="https://ishopapps.ru/images/1579001830.jpg" alt="Charles" height="25" style="padding-right:10px"/></picture>
 <picture><img align="left" title='Postman' src="https://cloudconfusing.com/wp-content/uploads/2018/11/logo-mark.png" alt="Postman" height="25" style="padding-right:10px"/></picture>
-<picture><img align="left" title='Visual Studio Code' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="25" style="padding-right:10px"/>
+<picture><img align="left" title='Visual Studio Code' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="25" style="padding-right:10px"/></picture>
 <picture><img align="left" title='Figma' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="25" style="padding-right:10px"/></picture>
 <picture><img align="left" title='Trello' src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" height="25" style="padding-right:10px"/></picture>
 <picture><img align="left" title='Yandex Tracker' src="https://play-lh.googleusercontent.com/KZm13A9hODTQg58glu3a2kOE4Lwz5gyH-sNMuHmgZ1BBbxR0V65u1RdDreX_as5g0bk=s360" alt="Yandex Tracker" height="25" style="padding-right:10px"/></picture>
@@ -49,12 +49,3 @@
 [instagram]: https://www.instagram.com/ollie_reshetova/
 [vk]: https://vk.com/ollie_reshetova
 [tg]: https://t.me/ollie_reshetova
-
-<!-- img[src*='thumbnail'] {
-   border: 3px solid red
-}  -->
-
-<!-- img[src*="#thumbnail"] {
-   pointer-events:none;
-   coursor: default;
-} -->
